@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sevastopaul2047
-- 👀 I’m interested in EVERYTHING CS PRIMARILY BECUZ I AM A ROOKIE 
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Intelligence  
+- 🌱 I’m currently learning a lil bit of everything 
 - 💞️ I’m looking to collaborate on ANYTHING THAT HELPS ME GET STARTED IN OPENSOURCE RESEARCH AND DEV
 - 📫 How to reach me paulrupanjan2047@gmail.com
 

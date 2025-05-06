@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sevastopaul2047
+- 👋 Hi, I’m Rupanjan...
 - 📫 How to reach me paulrupanjan2047@gmail.com
 
   Peace✌🏼
